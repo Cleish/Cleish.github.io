@@ -1,9 +1,6 @@
 <style>
 
-body {
-  background-color: black;
-  color: white;
-}
+body { background-color: #000000;color: #FFFFFF;}
 li { list-style-type}
 li.1 { list-style-type: square; }
 h1 {font-size: 20px;}
